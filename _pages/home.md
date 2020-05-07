@@ -11,4 +11,4 @@ CARAS (<span class="bigger"><b>C</b></span>omputer <span class="bigger"><b>Ar</b
 
 **一緒に研究する仲間を募集しています！
 まだまだ手探りですが [こんな研究室](message) にしていきたいと思っています。
-計算機アーキテクチャをはじめとするコンピュータシステムの基盤技術やコンピュータセキュリティに興味がある方はぜひ佐々木に [連絡](mailto:sasaki@ict.e.titech.ac.jp) をしてください。**
+計算機アーキテクチャをはじめとするコンピュータシステムの基盤技術やコンピュータセキュリティに興味がある方はぜひ佐々木に連絡を（[メール](mailto:sasaki@ict.e.titech.ac.jp) や [Twitter](https://twitter.com/hrshssk) などで）してください。**
