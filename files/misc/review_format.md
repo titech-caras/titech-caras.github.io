@@ -13,9 +13,13 @@
 
 ---
 
-# 記入者：名前、学年（記入年月日）
+# 記入者の名前（YYYY-MM-DD）
 
 # 論文情報
+(Please use comma as a separator for authors)
+(For the venue use the abbreviated conference/journal name: e.g., MICRO 2019)
+(Use as many keywords as you wish and don't make them too general)
+
 - タイトル：
 - 著者：
 - 出展（学会／論文誌）：
@@ -28,13 +32,22 @@
 - 最も重要なメッセージは？
 
 ## 強み
+(Please evaluate the *work*, not the *presentation*)
 良い解法であるか（センスは良いか？普遍的か？など）。
 
 ## 弱み
 このセクションが *最も重要*。完璧な論文は存在しないので何かしら論文を改善できる点があるはず。ただし普通は論文は自分の弱みを強調していないので（触れてさえいないかもしれない）、自分で見つける必要がある。よく考えること。
+(Please evaluate the *work*, not the *presentation*)
+
+## プレゼンテーション
+(This section is optional, only fill it when there's something special about it)
+(Please evaluate the paper presentation. You can include the good and/or the bad)
 
 ## どのように発展させられるか？
 自分なりのアイデアを書く。
 
 ## 感想
 学んだこと、好き／嫌いだった点など。
+
+## Q&A
+(This section is optional, only fill it when you receive questions from readers)
