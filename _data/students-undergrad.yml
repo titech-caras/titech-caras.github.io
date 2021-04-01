@@ -1,11 +1,11 @@
-- name: 太田 芽衣
-  photo: mei-ohta.jpg
-  info: 2020年12月仮配属
-  email: ohta.m.af@m.titech.ac.jp
-  website:
-
 - name: 今井 太翔
   photo: taiga-imai.jpg
   info: 2020年12月仮配属
   email: imai.t.am@m.titech.ac.jp
+  website:
+
+- name: 太田 芽衣
+  photo: mei-ohta.jpg
+  info: 2020年12月仮配属
+  email: ohta.m.af@m.titech.ac.jp
   website:
