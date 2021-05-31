@@ -32,7 +32,10 @@ h3, .h3 {
     font-size: 65%;
   }
 }
-h4, .h4,
+h4, .h4 {
+  margin-top: $line-height-computed;
+  margin-bottom: ($line-height-computed / 2);
+}
 h5, .h5,
 h6, .h6 {
   margin-top: ($line-height-computed / 2);
