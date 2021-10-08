@@ -58,29 +58,6 @@ permalink: /people-en
   {{ member.info }}<br>
   <a href="mailto:{{ member.email }}">{{ member.email }}</a>
   <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
   </ul>
 </div>
 
@@ -116,29 +93,6 @@ permalink: /people-en
   {{ member.info }}<br>
   <a href="mailto:{{ member.email }}">{{ member.email }}</a>
   <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
   </ul>
 </div>
 
@@ -154,3 +108,17 @@ permalink: /people-en
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+### Alumni
+#### Undergrad student
+{% for member in site.data.alumni-undergrad-en %}
+
+<div style="text-indent:1em">
+  {% if member.website %}
+  <h5><a href="{{ member.website }}">{{ member.name }}</a> ({{ member.info }})</h5>
+  {% else %}
+  <h5>{{ member.name }} ({{ member.info }})</h5>
+  {% endif %}
+</div>
+
+{% endfor %}
