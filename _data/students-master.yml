@@ -1,21 +1,3 @@
-- name: 杨晟
-  photo: sheng-yang.jpg
-  info: 2020年9月入学
-  email: you.s.ab@m.titech.ac.jp
-  website:
-
-- name: 樹山さくら
-  photo: sakura-kiyama.jpg
-  info: 2021年4月入学
-  email: kiyama.s.aa@m.titech.ac.jp
-  website:
-
-- name: 水野友輔
-  photo: yusuke-mizuno.jpg
-  info: 2021年4月入学
-  email: mizuno.y.an@m.titech.ac.jp
-  website:
-
 - name: Fakhri Hidayat
   photo: fakhri-hidayat.jpg
   info: 2021年9月入学
@@ -84,6 +66,13 @@
 
 - name: 王偉軒
   photo: wei-hsuan-wang.jpg
-  info: 2022年9月入学（2023年3月まで休学予定）
+  info: 2022年9月入学（2023年3月まで休学）
   email:
   website: https://grant890613.github.io/Self/
+
+- name: 矢野碩人
+  photo: hiroto-yano.jpg
+  info: 2023年4月入学
+  email: yano.h.ag@m.titech.ac.jp
+  website:
+

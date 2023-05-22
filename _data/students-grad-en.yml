@@ -1,21 +1,3 @@
-- name: Sheng Yang
-  photo: sheng-yang.jpg
-  info: Master's student (joined Sep 2020)
-  email: you.s.ab@m.titech.ac.jp
-  website:
-
-- name: Sakura Kiyama
-  photo: sakura-kiyama.jpg
-  info: Master's student (joined Apr 2021)
-  email: kiyama.s.aa@m.titech.ac.jp
-  website:
-
-- name: Yusuke Mizuno
-  photo: yusuke-mizuno.jpg
-  info: Master's student (joined Apr 2021)
-  email: mizuno.y.an@m.titech.ac.jp
-  website:
-
 - name: Zhongfa Wang
   photo: zhongfa-wang.jpg
   info: PhD student (joined Sep 2021)
@@ -90,6 +72,13 @@
 
 - name: Wei-Hsuan Wang
   photo: wei-hsuan-wang.jpg
-  info: Master's student (joined Sep 2022; taking a leave of absence until Mar 2023)
+  info: Master's student (joined Sep 2022; took a leave of absence until Mar 2023)
   email:
   website: https://grant890613.github.io/Self/
+
+- name: Hiroto Yano
+  photo: hiroto-yano.jpg
+  info: Master's student (joined Apr 2023)
+  email: yano.h.ag@m.titech.ac.jp
+  website:
+
