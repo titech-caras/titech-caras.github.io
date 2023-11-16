@@ -112,7 +112,7 @@ permalink: /people-en
 ---
 
 ### Alumni
-#### Grad students
+#### Master's students
 {% for member in site.data.alumni-grad-en %}
 
 <div style="text-indent:1em">

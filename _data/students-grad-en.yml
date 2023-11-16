@@ -6,39 +6,39 @@
 
 - name: Fakhri Hidayat
   photo: fakhri-hidayat.jpg
-  info: Master's student (joined Sep 2021)
+  info: PhD student (since Sep 2023; joined Sep 2021)
   email: hidayat.f.aa@m.titech.ac.jp
   website: https://fakhri-hidayat.netlify.app/
 
-- name: Jun Liu
-  photo: jun-liu.jpg
-  info: Master's student (joined Sep 2021)
-  email: liu.j.au@m.titech.ac.jp
-  website: https://junliu.im
-
 - name: Yixin Pei
   photo: yixin-pei.jpg
-  info: Master's student (joined Sep 2021)
+  info: PhD student (since Sep 2023; joined Sep 2021)
   email: pei.y.ab@m.titech.ac.jp
   website: https://yixin-pei.netlify.app/
 
 - name: Huanchao Shen
   photo: huanchao-shen.jpg
-  info: Master's student (joined Sep 2021)
+  info: PhD student (since Sep 2023; joined Sep 2021)
   email: shen.h.ac@m.titech.ac.jp
   website: https://sites.google.com/view/huanchaoshen/
 
 - name: Rui Wang
   photo: rui-wang.jpg
-  info: Master's student (joined Sep 2021)
+  info: PhD student (since Sep 2023; joined Sep 2021)
   email: wang.r.ab@m.titech.ac.jp
   website: https://rioreal.github.io/
 
 - name: Linfeng Zheng
   photo: linfeng-zheng.jpg
-  info: Master's student (joined Sep 2021)
+  info: PhD student (since Sep 2023; joined Sep 2021)
   email: zheng.l.ab@m.titech.ac.jp
   website: https://me.rabbitravel.xyz
+
+- name: Yanru Lin
+  photo: yanru-lin.jpg
+  info: PhD student (joined Sep 2023; taking a leave of absence until Mar 2024)
+  email:
+  website: https://zzxiaoll.github.io/
 
 - name: Taiga Imai
   photo: taiga-imai.jpg
@@ -81,4 +81,22 @@
   info: Master's student (joined Apr 2023)
   email: yano.h.ag@m.titech.ac.jp
   website:
+
+- name: Adam Baihaqi Satriobudi
+  photo: adam-baihaqi-satriobudi.jpg
+  info: Master's student (joined Sep 2023)
+  email:
+  website: https://adambaihaqi16.wixsite.com/portfolio
+
+- name: Fangzheng Lin
+  photo: fangzheng-lin.jpg
+  info: Master's student (joined Sep 2023)
+  email:
+  website: https://lintoto.me/
+
+- name: Jinlin Wu
+  photo: jinlin-wu.jpg
+  info: Master's student (joined Sep 2023)
+  email:
+  website: https://sp1c4.github.io/
 

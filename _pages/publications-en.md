@@ -4,7 +4,7 @@ layout: base-en
 permalink: /publications-en
 ---
 
-## 2021
+### 2021
 {% for pub in site.data.publications-2021 %}
   {% if pub.language == "English" %}
   <ul style="list-style-type: none"><li>
@@ -16,7 +16,7 @@ permalink: /publications-en
   {% endif %}
 {% endfor %}
 
-## 2019
+### 2019
 {% for pub in site.data.publications-2019 %}
   {% if pub.language == "English" %}
   <ul style="list-style-type: none"><li>
