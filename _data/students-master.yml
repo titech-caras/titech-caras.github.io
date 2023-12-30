@@ -1,57 +1,3 @@
-- name: 杨晟
-  photo: sheng-yang.jpg
-  info: 2020年9月入学
-  email: you.s.ab@m.titech.ac.jp
-  website:
-
-- name: 樹山さくら
-  photo: sakura-kiyama.jpg
-  info: 2021年4月入学
-  email: kiyama.s.aa@m.titech.ac.jp
-  website:
-
-- name: 水野友輔
-  photo: yusuke-mizuno.jpg
-  info: 2021年4月入学
-  email: mizuno.y.an@m.titech.ac.jp
-  website:
-
-- name: Fakhri Hidayat
-  photo: fakhri-hidayat.jpg
-  info: 2021年9月入学
-  email: hidayat.f.aa@m.titech.ac.jp
-  website: https://fakhri-hidayat.netlify.app/
-
-- name: 刘骏
-  photo: jun-liu.jpg
-  info: 2021年9月入学
-  email: liu.j.au@m.titech.ac.jp
-  website: https://junliu.im
-
-- name: 裴弈心
-  photo: yixin-pei.jpg
-  info: 2021年9月入学
-  email: pei.y.ab@m.titech.ac.jp
-  website: https://yixin-pei.netlify.app/
-
-- name: 沈涣超
-  photo: huanchao-shen.jpg
-  info: 2021年9月入学
-  email: shen.h.ac@m.titech.ac.jp
-  website: https://sites.google.com/view/huanchaoshen/
-
-- name: 汪锐
-  photo: rui-wang.jpg
-  info: 2021年9月入学
-  email: wang.r.ab@m.titech.ac.jp
-  website: https://rioreal.github.io/
-
-- name: 郑林峰
-  photo: linfeng-zheng.jpg
-  info: 2021年9月入学
-  email: zheng.l.ab@m.titech.ac.jp
-  website: https://me.rabbitravel.xyz
-
 - name: 今井太翔
   photo: taiga-imai.jpg
   info: 2022年4月入学
@@ -84,6 +30,31 @@
 
 - name: 王偉軒
   photo: wei-hsuan-wang.jpg
-  info: 2022年9月入学（2023年3月まで休学予定）
+  info: 2022年9月入学（2023年3月まで休学）
   email:
   website: https://grant890613.github.io/Self/
+
+- name: 矢野碩人
+  photo: hiroto-yano.jpg
+  info: 2023年4月入学
+  email: yano.h.ag@m.titech.ac.jp
+  website:
+
+- name: Adam Baihaqi Satriobudi
+  photo: adam-baihaqi-satriobudi.jpg
+  info: 2023年9月入学
+  email:
+  website: https://adambaihaqi16.wixsite.com/portfolio
+
+- name: 林方正
+  photo: fangzheng-lin.jpg
+  info: 2023年9月入学
+  email:
+  website: https://lintoto.me/
+
+- name: 吴金霖
+  photo: jinlin-wu.jpg
+  info: 2023年9月入学
+  email:
+  website: https://sp1c4.github.io/
+

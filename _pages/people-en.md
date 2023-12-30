@@ -109,8 +109,23 @@ permalink: /people-en
 </div>
 {% endif %}
 
+---
+
 ### Alumni
-#### Undergrad student
+#### Master's students
+{% for member in site.data.alumni-grad-en %}
+
+<div style="text-indent:1em">
+  {% if member.website %}
+  <h5><a href="{{ member.website }}">{{ member.name }}</a> ({{ member.info }})</h5>
+  {% else %}
+  <h5>{{ member.name }} ({{ member.info }})</h5>
+  {% endif %}
+</div>
+
+{% endfor %}
+
+#### Undergrad students
 {% for member in site.data.alumni-undergrad-en %}
 
 <div style="text-indent:1em">

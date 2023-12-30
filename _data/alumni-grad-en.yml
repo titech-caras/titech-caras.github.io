@@ -1,0 +1,16 @@
+- name: Jun Liu
+  photo: jun-liu.jpg
+  info: "graduated Sep 2023; first employment: Preferred Networks"
+  email: liu.j.au@m.titech.ac.jp
+
+- name: Yusuke Mizuno
+  info: "graduated Mar 2023; first employment: Kioxia"
+  website:
+
+- name: Sakura Kiyama
+  info: "graduated Mar 2023; first employment: Murata Manufacturing"
+  website:
+
+- name: Sheng Yang
+  info: "graduated Mar 2023; first employment: Fixtars"
+  website:

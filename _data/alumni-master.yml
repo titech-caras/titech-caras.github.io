@@ -1,41 +1,44 @@
-- name: 王仲发
-  photo: zhongfa-wang.jpg
-  info: 2021年9月入学
-  email: wang.z.az@m.titech.ac.jp
-  website: https://wzfacademic.netlify.app/
-
 - name: Fakhri Hidayat
   photo: fakhri-hidayat.jpg
-  info: 2023年9月進学
+  info: 2023年9月修了
   email: hidayat.f.aa@m.titech.ac.jp
   website: https://fakhri-hidayat.netlify.app/
 
+- name: 刘骏
+  photo: jun-liu.jpg
+  info: 2023年9月修了
+  email: liu.j.au@m.titech.ac.jp
+  website: https://junliu.im
+
 - name: 裴弈心
   photo: yixin-pei.jpg
-  info: 2023年9月進学
+  info: 2023年9月修了
   email: pei.y.ab@m.titech.ac.jp
   website: https://yixin-pei.netlify.app/
 
 - name: 沈涣超
   photo: huanchao-shen.jpg
-  info: 2023年9月進学
+  info: 2023年9月修了
   email: shen.h.ac@m.titech.ac.jp
   website: https://sites.google.com/view/huanchaoshen/
 
 - name: 汪锐
   photo: rui-wang.jpg
-  info: 2023年9月進学
+  info: 2023年9月修了
   email: wang.r.ab@m.titech.ac.jp
   website: https://rioreal.github.io/
 
 - name: 郑林峰
   photo: linfeng-zheng.jpg
-  info: 2023年9月進学
+  info: 2023年9月修了
   email: zheng.l.ab@m.titech.ac.jp
   website: https://me.rabbitravel.xyz
 
-- name: 蔺彦儒
-  photo: yanru-lin.jpg
-  info: 2023年9月入学（2024年3月まで休学予定）
-  email:
-  website: https://zzxiaoll.github.io/
+- name: 杨晟
+  info: 2023年3月修了
+
+- name: 樹山さくら
+  info: 2023年3月修了
+
+- name: 水野友輔
+  info: 2023年3月修了
