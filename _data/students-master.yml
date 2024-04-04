@@ -1,27 +1,3 @@
-- name: 今井太翔
-  photo: taiga-imai.jpg
-  info: 2022年4月入学
-  email: imai.t.am@m.titech.ac.jp
-  website:
-
-- name: 柏木雄介
-  photo: yusuke-kashiwagi.jpg
-  info: 2022年4月入学
-  email: kashiwagi.y.ac@m.titech.ac.jp
-  website:
-
-- name: 오정원
-  photo: jeongwon-oh.jpg
-  info: 2022年4月入学
-  email: oh.j.ad@m.titech.ac.jp
-  website: https://jeongwon-oh.github.io
-
-- name: 森田隼人
-  photo: hayato-morita.jpg
-  info: 2022年4月入学（同年7月配属）
-  email: morita.h.ae@m.titech.ac.jp
-  website:
-
 - name: 横山舜
   photo: shun-yokoyama.jpg
   info: 2022年9月入学
@@ -31,7 +7,7 @@
 - name: 王偉軒
   photo: wei-hsuan-wang.jpg
   info: 2022年9月入学（2023年3月まで休学）
-  email:
+  email: wang.w.ar@m.titech.ac.jp)
   website: https://grant890613.github.io/Self/
 
 - name: 矢野碩人
@@ -43,18 +19,36 @@
 - name: Adam Baihaqi Satriobudi
   photo: adam-baihaqi-satriobudi.jpg
   info: 2023年9月入学
-  email:
+  email: satriobudi.a.aa@m.titech.ac.jp
   website: https://adambaihaqi16.wixsite.com/portfolio
 
 - name: 林方正
   photo: fangzheng-lin.jpg
   info: 2023年9月入学
-  email:
+  email: lin.f.ab@m.titech.ac.jp
   website: https://lintoto.me/
 
 - name: 吴金霖
   photo: jinlin-wu.jpg
   info: 2023年9月入学
-  email:
+  email: wu.j.au@m.titech.ac.jp
   website: https://sp1c4.github.io/
+
+- name: 鈴木隼輔
+  photo: shunsuke-suzuki.jpg
+  info: 2024年4月入学
+  email: suzuki.s.dg@m.titech.ac.jp
+  website:
+
+- name: Ryosuke Nakajima
+  photo: ryosuke-nakajima.jpg
+  info: 2024年4月入学
+  email:
+  website:
+
+- name: Xiu Nuan Lim
+  photo: xiu-nuan-lim.jpg
+  info: 2024年4月入学
+  email: lim.x.aa@m.titech.ac.jp
+  website: https://typea2.nl/
 

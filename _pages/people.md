@@ -38,7 +38,7 @@ permalink: /people
 </div>
 {% endif %}
 
-### 博士過程
+### 博士課程
 {% assign number_printed = 0 %}
 {% for member in site.data.students-phd %}
 
@@ -74,7 +74,7 @@ permalink: /people
 </div>
 {% endif %}
 
-### 修士過程
+### 修士課程
 {% assign number_printed = 0 %}
 {% for member in site.data.students-master %}
 
@@ -110,7 +110,7 @@ permalink: /people
 </div>
 {% endif %}
 
-### 学士過程
+### 学士課程
 {% assign number_printed = 0 %}
 {% for member in site.data.students-undergrad %}
 
@@ -149,7 +149,7 @@ permalink: /people
 ---
 
 ### 卒業生
-#### 修士過程
+#### 修士課程
 {% for member in site.data.alumni-master %}
 
 <div style="text-indent:1em">
@@ -162,7 +162,7 @@ permalink: /people
 
 {% endfor %}
 
-#### 学士過程
+#### 学士課程
 {% for member in site.data.alumni-undergrad %}
 
 <div style="text-indent:1em">

@@ -37,31 +37,19 @@
 - name: Yanru Lin
   photo: yanru-lin.jpg
   info: PhD student (joined Sep 2023; taking a leave of absence until Mar 2024)
-  email:
+  email: lin.y.ad@m.titech.ac.jp
   website: https://zzxiaoll.github.io/
-
-- name: Taiga Imai
-  photo: taiga-imai.jpg
-  info: Master's student (joined Apr 2022)
-  email: imai.t.am@m.titech.ac.jp
-  website:
-
-- name: Yusuke Kashiwagi
-  photo: yusuke-kashiwagi.jpg
-  info: Master's student (joined Apr 2022)
-  email: kashiwagi.y.ac@m.titech.ac.jp
-  website:
 
 - name: Jeong Won Oh
   photo: jeongwon-oh.jpg
-  info: Master's student (joined Apr 2022)
+  info: PhD student (since Apr 2024; joined Apr 2022)
   email: oh.j.ad@m.titech.ac.jp
   website: https://jeongwon-oh.github.io
 
-- name: Hayato Morita
-  photo: hayato-morita.jpg
-  info: Master's student (joined Jul 2022)
-  email: morita.h.ae@m.titech.ac.jp
+- name: Zhaoyang Wang
+  photo: zhaoyang-wang.jpg
+  info: PhD student (joined Apr 2024)
+  email: wang.z.bn@m.titech.ac.jp
   website:
 
 - name: Shun Yokoyama
@@ -73,7 +61,7 @@
 - name: Wei-Hsuan Wang
   photo: wei-hsuan-wang.jpg
   info: Master's student (joined Sep 2022; took a leave of absence until Mar 2023)
-  email:
+  email: wang.w.ar@m.titech.ac.jp)
   website: https://grant890613.github.io/Self/
 
 - name: Hiroto Yano
@@ -85,18 +73,36 @@
 - name: Adam Baihaqi Satriobudi
   photo: adam-baihaqi-satriobudi.jpg
   info: Master's student (joined Sep 2023)
-  email:
+  email: satriobudi.a.aa@m.titech.ac.jp
   website: https://adambaihaqi16.wixsite.com/portfolio
 
 - name: Fangzheng Lin
   photo: fangzheng-lin.jpg
   info: Master's student (joined Sep 2023)
-  email:
+  email: lin.f.ab@m.titech.ac.jp
   website: https://lintoto.me/
 
 - name: Jinlin Wu
   photo: jinlin-wu.jpg
   info: Master's student (joined Sep 2023)
-  email:
+  email: wu.j.au@m.titech.ac.jp
   website: https://sp1c4.github.io/
+
+- name: Shunsuke Suzuki
+  photo: shunsuke-suzuki.jpg
+  info: Master's student (joined Apr 2024)
+  email: suzuki.s.dg@m.titech.ac.jp
+  website:
+
+- name: Ryosuke Nakajima
+  photo: ryosuke-nakajima.jpg
+  info: Master's student (joined Apr 2024)
+  email:
+  website:
+
+- name: Xiu Nuan Lim
+  photo: xiu-nuan-lim.jpg
+  info: Master's student (joined Apr 2024)
+  email: lim.x.aa@m.titech.ac.jp
+  website: https://typea2.nl/
 
