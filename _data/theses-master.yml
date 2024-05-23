@@ -1,0 +1,57 @@
+- hr: 2024.03
+
+- name: 今井太翔
+  info: 2024年3月修了
+  title: OS管理型ハイブリッドメモリにおけるガベージコレクションを考慮したページマイグレーション手法
+
+- name: 柏木雄介
+  info: 2024年3月修了
+  title: リテンションエラーの特性に着目した次世代メモリのリフレッシュ頻度削減手法
+
+- name: 오정원
+  info: 2024年3月修了
+  title: A Cache Design for Mitigating Contention-Based Cache Attacks
+
+- name: 森田隼人
+  info: 2024年3月修了
+  title: 動的な利用モード切り替えと高い帯域効率を両立するハイブリッドメモリ
+
+- hr: 2023.09
+
+- name: Fakhri Hidayat
+  info: 2023年9月修了
+  title: CPU Microarchitectural Characterization of TFHE Workloads
+
+- name: 刘骏
+  info: 2023年9月修了
+  title: Burst Event Counters for Context-Sensitive Performance Monitoring
+
+- name: 裴弈心
+  info: 2023年9月修了
+  title: Hardware-Assisted Dangling Pointer Detection
+
+- name: 沈涣超
+  info: 2023年9月修了
+  title: Perceptron-Based Cache Block Maturity Prediction
+
+- name: 汪锐
+  info: 2023年9月修了
+  title: An Implementation and Performance Analysis of Bonsai Merkle Tree-Based Secure Persistent Memory Systems
+
+- name: 郑林峰
+  info: 2023年9月修了
+  title: An Analysis of Scheduling Policies in Out-of-Order Processors
+
+- hr: 2023.03
+
+- name: 杨晟
+  info: 2023年3月修了
+  title: Bandwidth-Efficient Data Management in Hybrid Memory Systems
+
+- name: 樹山さくら
+  info: 2023年3月修了
+  title: 性能と信頼性を両立するハイブリッドメモリにおけるデータ配置手法
+
+- name: 水野友輔
+  info: 2023年3月修了
+  title: ハイブリッドメモリにおけるアクセス種別を考慮したデータマイグレーション

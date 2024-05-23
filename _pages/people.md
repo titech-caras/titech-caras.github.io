@@ -149,7 +149,7 @@ permalink: /people
 ---
 
 ### 卒業生
-#### 修士課程
+#### <a href="theses-master">修士課程</a>
 {% for member in site.data.alumni-master %}
 
 <div style="text-indent:1em">
@@ -162,7 +162,7 @@ permalink: /people
 
 {% endfor %}
 
-#### 学士課程
+#### <a href="theses-undergrad">学士課程</a>
 {% for member in site.data.alumni-undergrad %}
 
 <div style="text-indent:1em">
