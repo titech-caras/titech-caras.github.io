@@ -4,6 +4,16 @@ layout: base
 permalink: /publications
 ---
 
+### 2025 年
+{% for pub in site.data.publications-2025 %}
+  <ul style="list-style-type: none"><li>
+  <b>{{ pub.title }}</b><br />
+  <em>{{ pub.authors }}</em><br />
+  {{ pub.venue }}, {{ pub.year }}. {% if pub.rate %}(acceptance rate: {{ pub.rate }}){% endif %}<br />
+  {% if pub.award %}<font class="award"><b>{{ pub.award }}</b></font><br />{% endif %}
+  </li></ul>
+{% endfor %}
+
 ### 2021 年
 {% for pub in site.data.publications-2021 %}
   <ul style="list-style-type: none"><li>
