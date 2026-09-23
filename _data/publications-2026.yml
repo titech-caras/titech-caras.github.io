@@ -1,7 +1,33 @@
+- title: "Exploiting Decompression Latency for Covert Channels in Inter-Line-Compressed LLCs."
+  language: English
+  authors: "David K. Oh, Hiroshi Sasaki."
+  venue: "IEEE Computer Architecture Letters (CAL)"
+  pages: "xx--xx"
+  month:
+  year: 2026 (accepted for publication)
+  rate:
+
+- title: "Improving Indirect Branch Prediction in Interpreters via Hardware/Software Co-Design."
+  language: English
+  authors: "Linfeng Zheng, Hiroshi Sasaki."
+  venue: "IEEE Computer Architecture Letters (CAL)"
+  pages: "xx--xx"
+  month:
+  year: 2026 (accepted for publication)
+  rate:
+
+- title: "Lightweight and Tunable Soft Error Resilience for Protecting Caches and Memory against 2-Bit Errors."
+  language: English
+  authors: "Shao-Yu Huang, Jungi Jeong, Hiroshi Sasaki, Changhee Jung."
+  venue: "In Proceedings of the 47th IEEE Symposium on Real-Time Systems (RTSS)"
+  month: Dec.
+  year: 2026 (to appear)
+  rate:
+
 - title: "Hardware-Accelerated Parallel Wrong-Path Execution for Spectre Gadget Detection."
   language: English
   authors: "Fangzheng Lin, Zeyu Gao, Yanru Lin, Yangyu Chen, Hiroshi Sasaki."
-  venue: "IEEE Computer Architecture Letters"
-  month: May.
-  year: 2026 (accepted for publication)
+  venue: "IEEE Computer Architecture Letters (CAL), Vol.25, Issue 1"
+  month: June
+  year: 2026
   rate:
